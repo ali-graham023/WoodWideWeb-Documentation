@@ -1,5 +1,30 @@
 /*
-This is the documentation for my MA Thesis Project 2023.
-I am using Bitsy as my game engine. This work began in January 2023.
+This is the documentation for my MA Thesis Project from the year 2023
+
+I am using Bitsy as my game engine
+
+This work began in January 2023
 
 -----
+1.17.2023
+The initial idea for this project was to create a game that exhibited nonhuman agency, be other-species-centered rather than human-centered. I've been in discussion with Tim Weaver and he refered me to the Wood Wide Web. This is an underground network of microbes that connects trees. It was found by Suzanne Simard, a forester, discovered that that plants exchange dialogue between each other. Through fungi and nutrients trees are able to communicate (mycorrhizal networks).
+
+-----
+2.3.2023
+Rafael and I discussed the game today and showed me different game engines that I could use. I initally wanted to realize this game through Unreal Engine, but as a time contraint I worry that I cannot accomplish what I need to get done by the time of my thesis deadline. I've turned to Bitsy. 
+
+-----
+2.5.2023
+I've started messing around in Bitsy, I created my first room where I have made a basic root system network. I am still getting used to this software and figuring it out. I have animated some sprites, choose my color palette, made my avatar, and added some dialogue.
+
+-----
+2.12.2023
+I am still having trouble figuring out how to evoke empathy and how to make an emotional statement. Rafael said that the mechanic is the message and I am keeping that in mind. I also am figuring out my dialogue. Right now, it seems very human and I do not want to humanize my sprites or objects, but how do I get the point across without having human-like text. I want my audience to understand the game and I am struggling with making that connection.
+
+-----
+2.20.2023
+I met with Tim today. He gave me a couple references: Eduardo Kohn and Merlin Sheldrake. He told me that microbiomes are all around me, so how do I occupy that negative space? 
+
+-----
+2.23.2023
+Today I started making another room to my game and figuring out how to do exists.
