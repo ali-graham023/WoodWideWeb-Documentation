@@ -27,4 +27,89 @@ I met with Tim today. He gave me a couple references: Eduardo Kohn and Merlin Sh
 
 -----
 2.23.2023
-Today I started making another room to my game and figuring out how to do exists.
+Today I started making another room to my game and figuring out how to do exists. Found that they are pretty easy to work with. You place the exits wherever you want and then you put the entrance in your next room. You can also put transitions in your exits so they can slide or fade or tunnel out.
+
+-----
+2.25.2023
+The process of figuring out what my rooms are going to be has been challenging and I feel like I have been stuck on where to go from the first room.
+
+-----
+2.27.2023
+I had an epiphany today that my rooms will be the different kinds of relationships that the network has with its surrounding life. I still need to figure out which ones those are going to be and how I am going to sequence them together, but this feela like an obstacle that I am slowly overcoming which is relieving. 
+
+-----
+3.2.2023
+Bitsy is very tediuos. I have been working on my other rooms and am slowly putting my sprites and tiles together. Right now, duplicating tiles is very helpful and coming up with different variations of fungi is going well.
+
+-----
+3.3.2023
+I figured out my dialogue today. I decided that I want the dialogue of my sprites to be poetic rather than literal. So far, the words for the dialogue are coming naturally. Finding the balance between being poetic and still being educational is still a challenge but I think it is still coming through as both. I am trying to be ambiguous with the writing and trying not to make it sound too human, but I feel like that is impossible to hide so might as well embrace it.
+
+-----
+3.10.2023
+I have finished my first three rooms and I feel pretty good about them. Right now, it seems a little dull visually, but maybe that's because I have been looking at them for so long.
+
+-----
+3.24.2023
+I took a long break between finals and spring break. But getting back into the game designing mode now. I have still continued my research and readings. I have been researching more about the mychorrizal network and have gained a better understanding about how it works.
+
+-----
+3.24.2023
+Met with Raf today. He gave me some more game design references. John Sharp and Dave Thomas, Mary Flanagan, and Jesper Juuls.
+
+-----
+4.3.2023
+Met with Tim today. We discussed the introduction section of my paper. We dove into the Anthropocene and Post-Anthropocene. For the Anthropocene, he mentioned the Cold War and WWII, the Great Acceleration, how capitalism influenced the economy, etc. We discussed moving through a physical space and how to get the user to have a non-human perspective. What would a non-human perspective be for another being? Witht the Post-Anthropocene =, what constitutes the Post-Anthropocene? Can humans deal with it? What are the conditions? I am changing the perspective of immersion so I can tune the timeline. He gave me references of Geoffrey West, about biological scale, SimAnt, and Conway's Game of Life.
+
+-----
+4.5.2023
+Working on my rooms today, trying to make them cohesive. I like the flow of them and I like how they are showing the different kinds of biological interactions that the network can have. I am having trouble with the "Mother Forest" room. I am not sure where to go from here.
+
+-----
+4.14.2023
+I have been busy with other school assignments the past week so I have not made as much progress as I have wanted with my game. I have been fine tuning the rooms that I already have like editing tiles, moving trunnels around, walling things off, etc. 
+
+-----
+4.17.2023
+Raf and I have been discussing what my other branching rooms could be for the "Mother Forest" room. I want there to be something more that just the forest layout I have been working with. Should I add a human influence room? Would that still be considered Post-Anthropocene?
+
+-----
+4.18.2023
+I added a human influence room because I think it helps make the narrative non-linear and it can be argued that the Anthropocene will live on in the Post-Anthropocene. Trying to figure out what I want that to look like. Been toying with the idea of making a logging room.
+Also, have been working on my audio. I found that mushrooms emit sound!
+
+-----
+4.21.2023
+I finsihed the "Human Influence" room. I feel as though that I am getting faster at making tiles and it feels fun! Having creative freedom designing these rooms is exciting!
+
+-----
+4.22.2023
+The "End" room is still a mystery to me. Should I have a call to action? What should this room be!
+
+-----
+4.23.2023
+I am finishing the dialogue for all the sprites. But the challenge this week has been trying to figure out counting the sprite interactions. I have decided to experiment with the text and I want the dialogue to have some complexity to it. I want the sprite interactions to change after the initial interaction. I have also decided that I want the end room to be a locked room and in order to open the room you have to talk to every single sprite before going in. I have talked to Raf about this and we are both perplexed so I have been working through this roadblock. 
+
+-----
+4.24.2023
+I have been trying to figure out what the difference is between the branching list and a sequence list. The YouTube tutorials all say to use a branching list and add a key in the dialogue, but it is not working.
+
+-----
+4.26.2023
+Sequence list! I think I have finally figured out the dialogue. You add a hidden key in the code in the first interaction of the sequence list and so that will tally up in your inventory. I want max 20 keys because there are 20 sprites, so this is the best way I could find. And it works. I tried to figure out how to add a third dialogue, but with the time I have it seems tricky. But it works with using a sequence list and I am relieved!
+
+-----
+4.27.2023
+I have finished my ending room and it was super fun to make. It went pretty fast, and I think it looks great. Everything seems to be going as planned.
+
+-----
+4.28.2023
+I've been figuring out how to add my music to the Bitsy editor and they do not seem to make it easy. I found a nice website (https://kool.tools/bitsy/tools/add-bitsy-audio/) that let's you add background music to your Bitsy game so that is super helpful. I wish I could've worked longer on the audio portion of the game, but I did not have enough time.
+
+-----
+4.29.2023
+I have been adding the finishing touches to my game: more fungi, details to trees, editing sprites, adding mushrooms and tunnels, making sure everything is walled off. I am pretty proud of what I accomplished.
+
+-----
+5.3.2023
+Had my last meeting with Raf before I sent it my paper and project. We talked about adding the game to Itch.io and what that entails. I am finishing up my paper and figuring out how to upload to Itch.
