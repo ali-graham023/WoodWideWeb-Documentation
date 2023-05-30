@@ -7,15 +7,15 @@ This work began in January 2023
 
 -----
 1.17.2023
-The initial idea for this project was to create a game that exhibited nonhuman agency, be other-species-centered rather than human-centered. I've been in discussion with Tim Weaver and he refered me to the Wood Wide Web. This is an underground network of microbes that connects trees. It was found by Suzanne Simard, a forester, discovered that that plants exchange dialogue between each other. Through fungi and nutrients trees are able to communicate (mycorrhizal networks).
+The initial idea for this project was to create a game that exhibited nonhuman agency, be other-species-centered rather than human-centered. I've been in discussion with Tim Weaver and he referred me to the Wood Wide Web. This is an underground network of microbes that connects trees. It was found by Suzanne Simard, a forester, discovered that plants exchange dialogue between each other. Through fungi and nutrients trees are able to communicate (mycorrhizal networks).
 
 -----
 2.3.2023
-Rafael and I discussed the game today and showed me different game engines that I could use. I initally wanted to realize this game through Unreal Engine, but as a time contraint I worry that I cannot accomplish what I need to get done by the time of my thesis deadline. I've turned to Bitsy. 
+Rafael and I discussed the game today and showed me different game engines that I could use. I initially wanted to realize this game through Unreal Engine, but as a time constraint I worry that I cannot accomplish what I need to get done by the time of my thesis deadline. I've turned to Bitsy. 
 
 -----
 2.5.2023
-I've started messing around in Bitsy, I created my first room where I have made a basic root system network. I am still getting used to this software and figuring it out. I have animated some sprites, choose my color palette, made my avatar, and added some dialogue.
+I've started messing around in Bitsy, I created my first room where I have made a basic root system network. I am still getting used to this software and figuring it out. I have animated some sprites, chosen my color palette, made my avatar, and added some dialogue.
 
 -----
 2.12.2023
@@ -27,7 +27,7 @@ I met with Tim today. He gave me a couple references: Eduardo Kohn and Merlin Sh
 
 -----
 2.23.2023
-Today I started making another room to my game and figuring out how to do exists. Found that they are pretty easy to work with. You place the exits wherever you want and then you put the entrance in your next room. You can also put transitions in your exits so they can slide or fade or tunnel out.
+Today I started making another room for my game and figuring out how to do exists. Found that they are pretty easy to work with. You place the exits wherever you want and then you put the entrance in your next room. You can also put transitions in your exits so they can slide or fade or tunnel out.
 
 -----
 2.25.2023
@@ -35,11 +35,11 @@ The process of figuring out what my rooms are going to be has been challenging a
 
 -----
 2.27.2023
-I had an epiphany today that my rooms will be the different kinds of relationships that the network has with its surrounding life. I still need to figure out which ones those are going to be and how I am going to sequence them together, but this feela like an obstacle that I am slowly overcoming which is relieving. 
+I had an epiphany today that my rooms will be the different kinds of relationships that the network has with its surrounding life. I still need to figure out which ones those are going to be and how I am going to sequence them together, but this feels like an obstacle that I am slowly overcoming which is relieving. 
 
 -----
 3.2.2023
-Bitsy is very tediuos. I have been working on my other rooms and am slowly putting my sprites and tiles together. Right now, duplicating tiles is very helpful and coming up with different variations of fungi is going well.
+Bitsy is very tedious. I have been working on my other rooms and am slowly putting my sprites and tiles together. Right now, duplicating tiles is very helpful and coming up with different variations of fungi is going well.
 
 -----
 3.3.2023
@@ -51,7 +51,7 @@ I have finished my first three rooms and I feel pretty good about them. Right no
 
 -----
 3.24.2023
-I took a long break between finals and spring break. But getting back into the game designing mode now. I have still continued my research and readings. I have been researching more about the mychorrizal network and have gained a better understanding about how it works.
+I took a long break between finals and spring break. But getting back into the game designing mode now. I have still continued my research and readings. I have been researching more about the mycorrhizal network and have gained a better understanding about how it works.
 
 -----
 3.24.2023
@@ -59,7 +59,7 @@ Met with Raf today. He gave me some more game design references. John Sharp and 
 
 -----
 4.3.2023
-Met with Tim today. We discussed the introduction section of my paper. We dove into the Anthropocene and Post-Anthropocene. For the Anthropocene, he mentioned the Cold War and WWII, the Great Acceleration, how capitalism influenced the economy, etc. We discussed moving through a physical space and how to get the user to have a non-human perspective. What would a non-human perspective be for another being? Witht the Post-Anthropocene =, what constitutes the Post-Anthropocene? Can humans deal with it? What are the conditions? I am changing the perspective of immersion so I can tune the timeline. He gave me references of Geoffrey West, about biological scale, SimAnt, and Conway's Game of Life.
+Met with Tim today. We discussed the introduction section of my paper. We dove into the Anthropocene and Post-Anthropocene. For the Anthropocene, he mentioned the Cold War and WWII, the Great Acceleration, how capitalism influenced the economy, etc. We discussed moving through a physical space and how to get the user to have a non-human perspective. What would a non-human perspective be for another being? With the Post-Anthropocene, what constitutes the Post-Anthropocene? Can humans deal with it? What are the conditions? I am changing the perspective of immersion so I can tune the timeline. He gave me references of Geoffrey West, about biological scale, SimAnt, and Conway's Game of Life.
 
 -----
 4.5.2023
@@ -71,16 +71,16 @@ I have been busy with other school assignments the past week so I have not made 
 
 -----
 4.17.2023
-Raf and I have been discussing what my other branching rooms could be for the "Mother Forest" room. I want there to be something more that just the forest layout I have been working with. Should I add a human influence room? Would that still be considered Post-Anthropocene?
+Raf and I have been discussing what my other branching rooms could be for the "Mother Forest" room. I want there to be something more than just the forest layout I have been working with. Should I add a human influence room? Would that still be considered Post-Anthropocene?
 
 -----
 4.18.2023
 I added a human influence room because I think it helps make the narrative non-linear and it can be argued that the Anthropocene will live on in the Post-Anthropocene. Trying to figure out what I want that to look like. Been toying with the idea of making a logging room.
-Also, have been working on my audio. I found that mushrooms emit sound!
+Also, I have been working on my audio. I found that mushrooms emit sound!
 
 -----
 4.21.2023
-I finsihed the "Human Influence" room. I feel as though that I am getting faster at making tiles and it feels fun! Having creative freedom designing these rooms is exciting!
+I finished the "Human Influence" room. I feel as though that I am getting faster at making tiles and it feels fun! Having creative freedom designing these rooms is exciting!
 
 -----
 4.22.2023
@@ -104,7 +104,7 @@ I have finished my ending room and it was super fun to make. It went pretty fast
 
 -----
 4.28.2023
-I've been figuring out how to add my music to the Bitsy editor and they do not seem to make it easy. I found a nice website (https://kool.tools/bitsy/tools/add-bitsy-audio/) that let's you add background music to your Bitsy game so that is super helpful. I wish I could've worked longer on the audio portion of the game, but I did not have enough time.
+I've been figuring out how to add my music to the Bitsy editor and they do not seem to make it easy. I found a nice website (https://kool.tools/bitsy/tools/add-bitsy-audio/) that lets you add background music to your Bitsy game so that is super helpful. I wish I could've worked longer on the audio portion of the game, but I did not have enough time.
 
 -----
 4.29.2023
